@@ -1,0 +1,7 @@
+{
+    "sketch": "monrobot\\monrobot.ino",
+    "board": "arduino:avr:nano",
+    "configuration": "cpu=atmega328old",
+    "port": "COM3",
+    "output": ".output"
+}

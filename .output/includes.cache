@@ -1,0 +1,142 @@
+[
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\lolof.DESKTOP-J21SAV6\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.21\\cores\\arduino"
+  },
+  {
+    "Sourcefile": "",
+    "Include": "",
+    "Includepath": "C:\\Users\\lolof.DESKTOP-J21SAV6\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.6.21\\variants\\eightanaloginputs"
+  },
+  {
+    "Sourcefile": "c:\\Users\\lolof.DESKTOP-J21SAV6\\Github\\MonRobot\\.output\\sketch\\monrobot.ino.cpp",
+    "Include": "NewPing.h",
+    "Includepath": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\NewPing\\src"
+  },
+  {
+    "Sourcefile": "c:\\Users\\lolof.DESKTOP-J21SAV6\\Github\\MonRobot\\.output\\sketch\\monrobot.ino.cpp",
+    "Include": "IRremote.h",
+    "Includepath": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote"
+  },
+  {
+    "Sourcefile": "c:\\Users\\lolof.DESKTOP-J21SAV6\\Github\\MonRobot\\.output\\sketch\\monrobot.ino.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\NewPing\\src\\NewPing.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\IRremote.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\esp32.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\irPronto.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\irRecv.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\irSend.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Aiwa.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Denon.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Dish.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_JVC.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_LG.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Lego_PF.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Mitsubishi.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_NEC.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Panasonic.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_RC5_RC6.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Samsung.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Sanyo.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Sharp.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Sony.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Template.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\ir_Whynter.cpp",
+    "Include": "",
+    "Includepath": ""
+  },
+  {
+    "Sourcefile": "C:\\Users\\lolof.DESKTOP-J21SAV6\\OneDrive\\Documents\\Arduino\\libraries\\IRremote\\sam.cpp",
+    "Include": "",
+    "Includepath": ""
+  }
+]
