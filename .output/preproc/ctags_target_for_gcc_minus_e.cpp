@@ -93,11 +93,11 @@ void loop()
         stop();
         delay(100);
         recule(80);
-        delay(500);
+        delay(1000);
         stop();
         delay(100);
         droite(80);
-        delay(500);
+        delay(1000);
         stop();
         delay(100);
       }else{
@@ -105,7 +105,7 @@ void loop()
       }
    }else //mode manuel
    {
-      if (distActuelle<20) {
+      if (distActuelle<10) {
         stop();
       }
    }
@@ -194,7 +194,7 @@ void avance(int speed)
 {
   digitalWrite(6 /* Motor A pin 2, A-IA, PWM*/,0x0);
   digitalWrite(5 /* Motor B pin 2, B-IA, PWM*/,0x0);
-  analogWrite(10 /* Motor A pin 1, A-IB, DIR*/,speed+6); //moteur B plus rapide
+  analogWrite(10 /* Motor A pin 1, A-IB, DIR*/,speed+8); //moteur B plus rapide
   analogWrite(9 /* Motor B pin 1, B-IB, DIR*/,speed);
 
 if(modeAuto == 1){
